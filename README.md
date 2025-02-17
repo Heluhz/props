@@ -1,8 +1,7 @@
-# React + Vite
+# GDG React Study Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Creating a User Card using Props
 
-Currently, two official plugins are available:
+This task involves creating a simple React application that displays a user card using props. The user card will display the user's name, email, age, and background color.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
